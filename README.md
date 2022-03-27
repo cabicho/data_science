@@ -27,7 +27,7 @@ Veja os tutoriais publicados do Ciencia de Dados :
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/
+* **Aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/
 
 
 ---
