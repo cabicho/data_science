@@ -16,7 +16,7 @@ Gosto e muito de trabalhar com as duas formações.
 Neste ultimos meses,
 venho buscando compartilhar o pouco conhecimento que tenho,
 aplicando Machine Learning a problemas reais, 
-principalmento do Kaggle.com, 
+principalmento do Kaggle.com (https://www.kaggle.com/learn/certification/cabk8s/data-visualization), 
 desenvolvendo um pensamento crítico e habilidade de resolução de problemas.
 
 Este é o maior motivo deste portifólio. 
